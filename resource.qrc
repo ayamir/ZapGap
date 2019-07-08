@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icon.png</file>
+        <file>background.png</file>
+        <file>Quit.png</file>
+        <file>Settings.png</file>
+        <file>Start.png</file>
+        <file>settingswindowicon.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>correct.wav</file>
+        <file>quitmusic.wav</file>
+        <file>settingsmusic.wav</file>
+        <file>startmusic.wav</file>
+        <file>incorrect.wav</file>
+        <file>Crazy Dave (Intro Theme).wav</file>
+        <file>Energy Drink.wav</file>
+        <file>Back on Track.wav</file>
+    </qresource>
+</RCC>
